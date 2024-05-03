@@ -1,0 +1,285 @@
+
+Game of Thrones (2011-2019, HBO, Drama, Fantasy, Warner Bros., TV-MA, Book Adaptation)
+Breaking Bad (2008-2013, AMC, Drama, Sony Pictures Television, TV-MA)
+Friends (1994-2004, NBC, Comedy, Warner Bros., TV-PG)
+The Sopranos (1999-2007, HBO, Drama, Warner Bros., TV-MA)
+Stranger Things (2016-2022, Netflix, Horror, Science Fiction, Book Adaptation)
+The Office (2005-2013, NBC, Comedy, Universal Television, TV-14)
+The Crown (2016-2022, Netflix, Drama, Sony Pictures Television, TV-MA)
+The Big Bang Theory (2007-2019, CBS, Comedy, Warner Bros., TV-PG)
+Black Mirror (2011-2019, Netflix, Science Fiction, Drama, TV-MA)
+The Walking Dead (2010-2022, AMC, Horror, Drama, TV-MA, Comic Book Adaptation)
+The Handmaid's Tale (2017-2022, Hulu, Drama, MGM Television, TV-MA, Book Adaptation)
+Mad Men (2007-2015, AMC, Drama, Lionsgate Television, TV-14)
+Seinfeld (1989-1998, NBC, Comedy, Sony Pictures Television, TV-PG)
+Dexter (2006-2013, Showtime, Drama, CBS Television Studios, TV-MA, Book Adaptation)
+The Simpsons (1989-present, Fox, Animation, Comedy, 20th Television, TV-PG)
+Friends: The Reunion (2021, HBO Max, Documentary, Comedy, Warner Bros., TV-MA)
+The West Wing (1999-2006, NBC, Drama, Warner Bros., TV-14)
+This Is Us (2016-2022, NBC, Drama, 20th Television, TV-14)
+Stranger Things 3 (2019, Netflix, Horror, Science Fiction, Book Adaptation)
+The Boys (2019-present, Amazon Prime Video, Superhero, Drama, TV-MA, Comic Book Adaptation)
+Chernobyl (2019, HBO, Drama, Sky UK, TV-MA)
+House of Cards (2013-2018, Netflix, Drama, Media Rights Capital, TV-MA, Book Adaptation)
+Grey's Anatomy (2005-present, ABC, Drama, Shondaland, TV-14)
+Fargo (2014-present, FX, Crime, Drama, TV-MA, Film Adaptation)
+How I Met Your Mother (2005-2014, CBS, Comedy, 20th Television, TV-14)
+The Haunting of Hill House (2018, Netflix, Horror, Drama, TV-MA, Book Adaptation)
+The Good Place (2016-2020, NBC, Comedy, Fremulon, TV-14)
+The Marvelous Mrs. Maisel (2017-present, Amazon Prime Video, Comedy, Drama, TV-MA)
+Succession (2018-present, HBO, Drama, Media Rights Capital, TV-MA)
+The Mandalorian (2019-present, Disney+, Science Fiction, Action, Drama, TV-14)
+Sex Education (2019-present, Netflix, Comedy, Drama, TV-MA)
+Curb Your Enthusiasm (2000-present, HBO, Comedy, HBO Entertainment, TV-MA)
+True Blood (2008-2014, HBO, Drama, Science Fiction, TV-MA, Book Adaptation)
+Westworld (2016-present, HBO, Science Fiction, Drama, TV-MA, Film Adaptation)
+The Vampire Diaries (2009-2017, The CW, Drama, Fantasy, TV-14, Book Adaptation)
+Brooklyn Nine-Nine (2013-2021, Fox/NBC, Comedy, Universal Television, TV-14)
+Sons of Anarchy (2008-2014, FX, Crime, Drama, TV-MA)
+The Good Doctor (2017-present, ABC, Drama, Sony Pictures Television, TV-14)
+The Umbrella Academy (2019-present, Netflix, Superhero, Science Fiction, TV-14, Comic Book Adaptation)
+The Handmaid's Tale Season 2 (2018, Hulu, Drama, MGM Television, TV-MA, Book Adaptation)
+The Blacklist (2013-present, NBC, Crime, Drama, Sony Pictures Television, TV-14)
+The 100 (2014-2020, The CW, Drama, Science Fiction, TV-14, Book Adaptation)
+The Flash (2014-present, The CW, Superhero, Drama, TV-14, Comic Book Adaptation)
+House (2004-2012, Fox, Drama, Universal Television, TV-14)
+Sherlock (2010-2017, BBC, Crime, Drama, Hartswood Films, TV-14)
+Modern Family (2009-2020, ABC, Comedy, 20th Television, TV-PG)
+The Walking Dead Season 2 (2011-2012, AMC, Horror, Drama, TV-MA, Comic Book Adaptation)
+Big Little Lies (2017-2019, HBO, Drama, Pacific Standard, TV-MA, Book Adaptation)
+Gossip Girl (2007-2012, The CW, Drama, Alloy Entertainment, TV-14, Book Adaptation)
+Ozark (2017-2022, Netflix, Crime, Drama, TV-MA)
+The Man in the High Castle (2015-2019, Amazon Prime Video, Science Fiction, Drama, TV-MA, Book Adaptation)
+Sense8 (2015-2018, Netflix, Science Fiction, Drama, TV-MA)
+Riverdale (2017-present, The CW, Drama, Mystery, TV-14, Comic Book Adaptation)
+Bates Motel (2013-2017, A&E, Drama, Horror, TV-MA)
+Narcos (2015-2017, Netflix, Crime, Drama, TV-MA)
+Better Call Saul (2015-present, AMC, Drama, Sony Pictures Television, TV-MA)
+The Killing (2011-2014, AMC/Netflix, Crime, Drama, TV-MA, Adaptation)
+Silicon Valley (2014-2019, HBO, Comedy, TV-MA)
+This Is Us (2016-present, NBC, Drama, 20th Television, TV-14)
+The Expanse (2015-2021, Syfy/Amazon Prime Video, Science Fiction, Drama, TV-14, Book Adaptation)
+The Crown (2016-2020, Netflix, Drama, Left Bank Pictures, TV-MA)
+Fringe (2008-2013, Fox, Science Fiction, Drama, Warner Bros. Television, TV-14)
+Hannibal (2013-2015, NBC, Crime, Drama, TV-MA, Book Adaptation)
+Luke Cage (2016-2018, Netflix, Superhero, Drama, TV-MA, Comic Book Adaptation)
+Peaky Blinders (2013-2022, BBC/Netflix, Crime, Drama, TV-MA)
+Master of None (2015-2017, Netflix, Comedy, Universal Television, TV-MA)
+Legion (2017-2019, FX, Superhero, Drama, TV-MA, Comic Book Adaptation)
+The Boys (2019-present, Amazon Prime Video, Superhero, Comedy, TV-MA, Comic Book Adaptation)
+The Haunting of Hill House (2018, Netflix, Horror, Drama, TV-MA, Book Adaptation)
+The Marvelous Mrs. Maisel (2017-present, Amazon Prime Video, Comedy, Drama, TV-MA)
+The Sopranos (1999-2007, HBO, Crime, Drama, TV-MA)
+The Wire (2002-2008, HBO, Crime, Drama, TV-MA)
+The Handmaid's Tale (2017-present, Hulu, Drama, MGM Television, TV-MA, Book Adaptation)
+The West Wing (1999-2006, NBC, Drama, Warner Bros. Television, TV-14)
+The Newsroom (2012-2014, HBO, Drama, TV-MA)
+The Leftovers (2014-2017, HBO, Drama, Warner Bros. Television, TV-MA)
+The Big Bang Theory (2007-2019, CBS, Comedy, Warner Bros. Television, TV-PG)
+Shameless (2011-2021, Showtime, Comedy, Drama, TV-MA)
+Six Feet Under (2001-2005, HBO, Drama, TV-MA)
+House of Cards (2013-2018, Netflix, Political drama, TV-MA, Book Adaptation)
+Breaking Bad (2008-2013, AMC, Crime, Drama, TV-MA)
+True Detective (2014-present, HBO, Crime, Drama, TV-MA)
+Stranger Things (2016-present, Netflix, Science Fiction, Horror, TV-14)
+The Handmaid's Tale Season 1 (2017, Hulu, Drama, MGM Television, TV-MA, Book Adaptation)
+Doctor Who (2005-present, BBC, Science Fiction, Drama, TV-PG)
+Avatar: The Last Airbender (2005-2008, Nickelodeon, Fantasy, Action, TV-Y7, Animated)
+Dragon Ball Z (1989-1996, Fuji TV, Fantasy, Action, Animated)
+Friends (1994-2004, NBC, Comedy, Warner Bros. Television, TV-PG)
+"Fleabag" (2016) - Two Brothers Pictures - Comedy, Drama - TV-MA - Not a book adaptation
+"Atlanta" (2016) - FX Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Mr. Robot" (2015) - Universal Cable Productions - Drama, Thriller - TV-MA - Not a book adaptation
+"The OA" (2016) - Plan B Entertainment - Drama, Mystery - TV-MA - Not a book adaptation
+"Better Things" (2016) - 3 Arts Entertainment - Comedy, Drama - TV-MA - Not a book adaptation
+"The Handmaid's Tale" (2017) - MGM Television - Drama, Sci-Fi - TV-MA - Based on a book
+"Mindhunter" (2017) - Denver and Delilah Productions - Crime, Drama - TV-MA - Based on a book
+"Stranger Things" (2016) - 21 Laps Entertainment - Drama, Sci-Fi - TV-14 - Not a book adaptation
+"Catastrophe" (2015) - Avalon Television - Comedy, Romance - TV-MA - Not a book adaptation
+"Transparent" (2014) - Picrow - Comedy, Drama - TV-MA - Not a book adaptation
+"Broad City" (2014) - 3 Arts Entertainment - Comedy - TV-MA - Not a book adaptation
+"Master of None" (2015) - Universal Television - Comedy, Drama - TV-MA - Not a book adaptation
+"Love" (2016) - Apatow Productions - Comedy, Romance - TV-MA - Not a book adaptation
+"The Americans" (2013) - Amblin Television - Crime, Drama - TV-MA - Not a book adaptation
+"Big Little Lies" (2017) - Blossom Films - Crime, Drama - TV-MA - Based on a book
+"Crazy Ex-Girlfriend" (2015) - Blacklamb Productions - Comedy, Musical - TV-14 - Not a book adaptation
+"American Gods" (2017) - FremantleMedia North America - Drama, Fantasy - TV-MA - Based on a book
+"The Crown" (2016) - Left Bank Pictures - Drama, History - TV-MA - Not a book adaptation
+"Man Seeking Woman" (2015) - Broadway Video - Comedy, Fantasy - TV-MA - Not a book adaptation
+"Halt and Catch Fire" (2014) - Gran Via Productions - Drama - TV-MA - Not a book adaptation
+"Dear White People" (2017) - Lionsgate Television - Comedy, Drama - TV-MA - Based on a movie
+"The Night Manager" (2016) - Ink Factory - Drama, Thriller - TV-MA - Based on a book
+"Unbreakable Kimmy Schmidt" (2015) - Little Stranger - Comedy - TV-14 - Not a book adaptation
+"The Leftovers" (2014) - White Rabbit - Drama, Fantasy - TV-MA - Based on a book
+"Sneaky Pete" (2015) - Amazon Studios - Crime, Drama - TV-MA - Not a book adaptation
+"You're the Worst" (2014) - FX Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"The Expanse" (2015) - Alcon Television Group - Drama, Sci-Fi - TV-14 - Based on a book
+"The Girlfriend Experience" (2016) - Transactional Pictures - Drama - TV-MA - Based on a movie
+"The Path" (2016) - Hulu - Drama - TV-MA - Not a book adaptation
+"Into the Badlands" (2015) - AMC Studios - Action, Drama - TV-14 - Not a book adaptation
+"The Man in the High Castle" (2015) - Amazon Studios - Drama, Sci-Fi - TV-MA - Based on a book
+"Bosch" (2014) - Amazon Studios - Crime, Drama - TV-MA - Based on a book
+"Outlander" (2014) - Sony Pictures Television - Drama, Romance - TV-MA - Based on a book
+"Mozart in the Jungle" (2014) - Picrow - Comedy, Drama - TV-MA - Based on a book
+"Jessica Jones" (2015) - Marvel Television - Action, Drama - TV-MA - Based on a comic book
+"F is for Family" (2015) - Wild West Television - Animation, Comedy - TV-MA - Not a book adaptation
+"Patriot" (2015) - Amazon Studios - Drama, Thriller - TV-MA - Not a book adaptation
+"Difficult People" (2015) - 3 Arts Entertainment - Comedy - TV-MA - Not a book adaptation
+"Black Sails" (2014) - Starz Originals - Adventure, Drama - TV-MA - Not a book adaptation
+"The Killing" (2011) - Fox Television Studios - Crime, Drama - TV-MA - Based on a book
+"Easy" (2016) - Duplass Brothers Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Orphan Black" (2013) - Temple Street Productions - Action, Drama - TV-MA - Not a book adaptation
+"The Last Man on Earth" (2015) - 20th Century Fox Television - Comedy - TV-14 - Not a book adaptation
+"High Maintenance" (2012) - HBO - Comedy, Drama - TV-MA - Not a book adaptation
+"The Good Place" (2016) - Fremulon - Comedy, Fantasy - TV-PG - Not a book adaptation
+"Horace and Pete" (2016) - PIG Newton Inc. - Drama - TV-MA - Not a book adaptation
+"Feed the Beast" (2016) - Lionsgate Television - Drama - TV-MA - Based on a book
+"The Magicians" (2015) - Universal Cable Productions - Drama, Fantasy - TV-14 - Based on a book
+"Z: The Beginning of Everything" (2015) - Amazon Studios - Drama - TV-MA - Based on a book
+"The Get Down" (2016) - Sony Pictures Television - Drama, Music - TV-MA - Not a book adaptation
+"Goliath" (2016) - Amazon Studios - Drama - TV-MA - Not a book adaptation
+"The OA" (2016) - Plan B Entertainment - Drama, Fantasy - TV-MA - Not a book adaptation
+"Love" (2016) - Judd Apatow Productions - Comedy, Romance - TV-MA - Not a book adaptation
+"Billions" (2016) - Showtime Networks - Drama - TV-MA - Not a book adaptation
+"Atlanta" (2016) - FX Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Hap and Leonard" (2016) - SundanceTV - Action, Crime - TV-MA - Based on a book
+"The Leftovers" (2014) - Warner Bros. Television - Drama, Fantasy - TV-MA - Based on a book
+"The Night Of" (2016) - BBC Worldwide Productions - Crime, Drama - TV-MA - Not a book adaptation
+"Mr. Robot" (2015) - Universal Cable Productions - Crime, Drama - TV-MA - Not a book adaptation
+"The Crown" (2016) - Left Bank Pictures - Drama - TV-MA - Based on a book
+"Better Things" (2016) - Pig Newton - Comedy, Drama - TV-MA - Not a book adaptation
+"The Handmaid's Tale" (2017) - MGM Television - Drama, Sci-Fi - TV-MA - Based on a book
+"American Gods" (2017) - Fremantle - Drama, Fantasy - TV-MA - Based on a book
+"The Marvelous Mrs. Maisel" (2017) - Amazon Studios - Comedy, Drama - TV-MA - Not a book adaptation
+"I Love Dick" (2016) - Amazon Studios - Comedy, Drama - TV-MA - Based on a book
+"Mindhunter" (2017) - Netflix - Crime, Drama - TV-MA - Based on a book
+"Atypical" (2017) - Sony Pictures Television - Comedy, Drama - TV-14 - Not a book adaptation
+"Big Little Lies" (2017) - HBO - Drama - TV-MA - Based on a book
+"Dear White People" (2017) - Lionsgate Television - Comedy, Drama - TV-MA - Based on a movie
+"Ozark" (2017) - Media Rights Capital - Crime, Drama - TV-MA - Not a book adaptation
+"One Mississippi" (2015) - FX Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Marvel's Runaways" (2017) - Marvel Television - Action, Drama - TV-14 - Based on a comic book
+"The Deuce" (2017) - Blown Deadline Productions - Drama - TV-MA - Not a book adaptation
+"Altered Carbon" (2018) - Skydance Television - Drama, Sci-Fi - TV-MA - Based on a book
+"Good Girls Revolt" (2015) - Amazon Studios - Drama - TV-MA - Based on a book
+"Dark" (2017) - Netflix - Crime, Drama - TV-MA - Not a book adaptation
+"Godless" (2017) - Netflix - Drama, Western - TV-MA - Not a book adaptation
+"The Terror" (2018) - Scott Free Productions - Drama, Horror - TV-MA - Based on a book
+"Killing Eve" (2018) - Sid Gentle Films - Drama, Thriller - TV-14 - Based on a book
+"Barry" (2018) - HBO - Comedy, Crime - TV-MA - Not a book adaptation
+"Sharp Objects" (2018) - Blumhouse Television - Drama, Mystery - TV-MA - Based on a book
+"Maniac" (2018) - Anonymous Content - Comedy, Drama - TV-MA - Not a book adaptation
+"Forever" (2018) - Amazon Studios - Comedy, Drama - TV-MA - Not a book adaptation
+"Bodyguard" (2018) - BBC Studios - Drama, Thriller - TV-MA - Not a book adaptation
+"Homecoming" (2018) - Amazon Studios - Drama, Mystery - TV-MA - Based on a podcast
+"Patriot" (2015) - Amazon Studios - Drama, Thriller - TV-MA - Not a book adaptation
+"The Little Drummer Girl" (2018) - The Ink Factory - Drama, Thriller - TV-MA - Based on a book
+"Escape at Dannemora" (2018) - Red Hour Productions - Drama - TV-MA - Based on a true story
+"Russian Doll" (2019) - Universal Television - Comedy, Drama - TV-MA - Not a book adaptation
+"The Umbrella Academy" (2019) - Dark Horse Entertainment - Action, Adventure - TV-14 - Based on a comic book
+"When They See Us" (2019) - Participant Media - Crime, Drama - TV-MA - Based on a true story
+"Euphoria" (2019) - A24 - Drama - TV-MA - Not a book adaptation
+"Undone" (2019) - Amazon Studios - Drama, Fantasy - TV-MA - Not a book adaptation
+"Gentleman Jack" (2019) - BBC One - Drama, Historical - TV-MA - Based on a true story
+"Years and Years" (2019) - Red Production Company - Drama, Sci-Fi - TV-MA - Not a book adaptation
+"Watchmen" (2019) - Warner Bros. Television - Action, Drama - TV-MA - Based on a comic book
+"The Witcher" (2019) - Netflix - Action, Adventure - TV-MA - Based on a book series.
+"Emily in Paris" (2020) - Darren Star Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Iron Fist" (2017) - Marvel Television - Action, Adventure - TV-MA - Based on a comic book
+"Insatiable" (2018) - Ryan Seacrest Productions - Comedy, Drama - TV-MA - Not a book adaptation
+"Terra Nova" (2011) - Amblin Television - Adventure, Sci-Fi - TV-PG - Not a book adaptation
+"The Playboy Club" (2011) - Imagine Television - Drama - TV-14 - Not a book adaptation
+"The Cape" (2011) - Universal Media Studios - Action, Drama - TV-14 - Not a book adaptation
+"Work It" (2012) - Summer School Productions - Comedy - TV-14 - Not a book adaptation
+"The Client List" (2012) - Fedora Films - Drama - TV-14 - Based on a book
+"Zero Hour" (2013) - ABC Studios - Drama, Fantasy - TV-PG - Not a book adaptation
+"We Are Men" (2013) - CBS Television Studios - Comedy - TV-14 - Not a book adaptation
+"Dads" (2013) - 20th Television - Comedy - TV-14 - Not a book adaptation
+"Dracula" (2013) - Carnival Films - Drama, Horror - TV-14 - Based on a book
+"The Michael J. Fox Show" (2013) - Olive Bridge Entertainment - Comedy - TV-PG - Not a book adaptation
+"The Crazy Ones" (2013) - 20th Television - Comedy - TV-14 - Not a book adaptation
+"Sean Saves the World" (2013) - Hazy Mills Productions - Comedy - TV-PG - Not a book adaptation
+"Super Fun Night" (2013) - Conaco - Comedy - TV-14 - Not a book adaptation
+"Killer Women" (2014) - ABC Studios - Drama - TV-14 - Based on a book
+"The Tomorrow People" (2013) - Warner Bros. Television - Drama, Sci-Fi - TV-14 - Based on a book
+"Almost Human" (2013) - Bad Robot Productions - Action, Drama - TV-14 - Not a book adaptation
+"Intelligence" (2014) - CBS Television Studios - Action, Drama - TV-14 - Not a book adaptation
+"Friends with Better Lives" (2014) - Kapital Entertainment - Comedy - TV-14 - Not a book adaptation
+"Selfie" (2014) - Piece of Pie Productions - Comedy - TV-14 - Not a book adaptation
+"Bad Judge" (2014) - Gary Sanchez Productions - Comedy - TV-14 - Not a book adaptation
+"Stalker" (2014) - Warner Bros. Television - Drama, Thriller - TV-14 - Not a book adaptation
+"Constantine" (2014) - Warner Bros. Television - Drama, Fantasy - TV-14 - Based on a comic book
+"State of Affairs" (2014) - Universal Television - Drama, Thriller - TV-14 - Not a book adaptation
+"The Whispers" (2015) - Amblin Television - Drama, Sci-Fi - TV-14 - Based on a book
+"The Brink" (2015) - Jerry Weintraub Productions - Comedy - TV-MA - Not a book adaptation
+"Truth Be Told" (2015) - Working Title Television - Drama, Thriller - TV-MA - Not a book adaptation
+"Of Kings and Prophets" (2016) - ABC Studios - Drama - TV-14 - Based on a book
+"The Family" (2016) - Mandeville Films - Drama, Mystery - TV-14 - Not a book adaptation
+"The Real O'Neals" (2016) - Di Bonaventura Pictures Television - Comedy - TV-14 - Not a book adaptation
+"BrainDead" (2016) - CBS Television Studios - Comedy, Drama - TV-14 - Not a book adaptation
+"Doubt" (2017) - Timberman/Beverly Productions - Drama - TV-14 - Not a book adaptation
+"Time After Time" (2017) - Outerbanks Entertainment - Drama, Sci-Fi - TV-14 - Based on a book
+"Training Day" (2017) - Jerry Bruckheimer Television - Action, Crime - TV-MA - Based on a movie
+"The Mist" (2017) - Dimension Television - Drama, Horror - TV-MA - Based on a book
+"Dynasty" (2017) - Fake Empire Productions - Drama - TV-14 - Based on a TV show
+"Inhumans" (2017) - Marvel Television - Action, Adventure - TV-14 - Based on a comic book
+"Me, Myself & I" (2017) - Kapital Entertainment - Comedy - TV-PG - Not a book adaptation
+"Valor" (2017) - CBS Television Studios - Drama - TV-14 - Not a book adaptation
+"The Mayor" (2017) - Good Session Productions - Comedy - TV-PG - Not a book adaptation
+"Ten Days in the Valley" (2017) - Skydance Media - Drama - TV-MA - Not a book adaptation
+"Disjointed" (2017) - Warner Bros. Television - Comedy - TV-MA - Not a book adaptation
+"Wisdom of the Crowd" (2017) - Algorithm Entertainment - Drama - TV-14 - Based on a book
+"Living Biblically" (2018) - Alcide Bava Productions - Comedy - TV-14 - Based on a book
+"Marvel's Inhumans" (2017) - Marvel Television - Action, Adventure - TV-14 - Based on a comic book
+"The Crossing" (2018) - Good Session Productions - Drama, Sci-Fi - TV-PG - Not a book adaptation
+"Champions" (2018) - Kaling International - Comedy - TV-14 - Not a book adaptation
+"Deception" (2018) - Berlanti Productions - Drama, Crime - TV-PG - Not a book adaptation
+"LA to Vegas" (2018) - Lon Zimmet Productions - Comedy - TV-14 - Not a book adaptation
+"Here and Now" (2018) - Your Face Goes Here Entertainment - Drama - TV-MA - Not a book adaptation
+"Instinct" (2018) - Michael Rauch Productions - Drama, Crime - TV-14 - Based on a book
+"Famous in Love" (2017) - Long Lake Media - Drama, Romance - TV-14 - Based on a book
+"The Dangerous Book for Boys" (2018) - Amazon Studios - Comedy, Drama - TV-PG - Based on a book
+"Roseanne" (2018) - Wind Dancer Productions - Comedy - TV-PG - Not a book adaptation
+"Sweetbitter" (2018) - Plan B Entertainment - Drama - TV-MA - Based on a book
+"Take Two" (2018) - Tandem Communications - Comedy, Crime - TV-14 - Not a book adaptation
+"The Innocents" (2018) - New Pictures - Drama, Fantasy - TV-MA - Not a book adaptation
+"Kidding" (2018) - Aggregate Films - Comedy, Drama - TV-MA - Not a book adaptation
+"Charmed" (2018) - Propagate Content - Drama, Fantasy - TV-14 - Based on a TV show
+"I Feel Bad" (2018) - 3 Arts Entertainment - Comedy - TV-PG - Based on a book
+"A Million Little Things" (2018) - Kapital Entertainment - Drama - TV-14 - Not a book adaptation
+"Rel" (2018) - 20th Century Fox Television - Comedy - TV-14 - Not a book adaptation
+"The First" (2018) - Westward Productions - Drama, Sci-Fi - TV-MA - Not a book adaptation
+"The Purge" (2018) - Blumhouse Television - Action, Horror - TV-MA - Based on a movie
+"I Am the Night" (2019) - Studio T - Drama, Mystery - TV-MA - Not a book adaptation
+"The Fix" (2019) - Page Fright - Drama, Thriller - TV-14 - Not a book adaptation
+"Whiskey Cavalier" (2019) - Warner Bros. Television - Action, Comedy - TV-14 - Not a book adaptation
+"The Enemy Within" (2019) - Universal Television - Drama, Thriller - TV-14 - Not a book adaptation
+"The Code" (2019) - Timberman/Beverly Productions - Drama - TV-14 - Not a book adaptation
+"The Twilight Zone" (2019) - Monkeypaw Productions - Drama, Fantasy - TV-MA - Based on a TV show
+"Grand Hotel" (2019) - Unbelievable Entertainment - Drama, Mystery - TV-14 - Based on a TV show
+"What/If" (2019) - Atlas Entertainment - Drama, Thriller - TV-MA - Not a book adaptation
+"BH90210" (2019) - CBS Television Studios - Comedy, Drama - TV-14 - Not a book adaptation
+"Bluff City Law" (2019) - David Janollari Entertainment - Drama - TV-14 - Not a book adaptation
+"The I-Land" (2019) - Nomadic Pictures - Adventure, Drama - TV-MA - Not a book adaptation
+"Almost Family" (2019) - Propagate Content - Drama - TV-14 - Based on a TV show
+"Watchmen" (2019) - Warner Bros. Television - Action, Drama - TV-MA - Based on a comic book
+"Emergence" (2019) - ABC Studios - Drama, Mystery - TV-14 - Not a book adaptation
+"The Unicorn" (2019) - CBS Television Studios - Comedy, Drama - TV-14 - Not a book adaptation
+"Carol's Second Act" (2019) - CBS Television Studios - Comedy - TV-PG - Not a book adaptation
+"Sunnyside" (2019) - Universal Television - Comedy - TV-14 - Not a book adaptation
+"Living with Yourself" (2019) - Likely Story - Comedy, Drama - TV-MA - Not a book adaptation
+"Dollface" (2019) - LuckyChap Entertainment - Comedy - TV-MA - Not a book adaptation
+"Batwoman" (2019) - Warner Bros. Television - Action, Adventure - TV-14 - Based on a comic book
+"Stumptown" (2019) - Don't Tell Mama Productions - Drama - TV-14 - Based on a comic book
+"Looking for Alaska" (2019) - Paramount Television Studios - Drama - TV-MA - Based on a book
+"Almost Family" (2019) - Propagate Content - Drama - TV-14 - Based on a TV show
+"Nancy Drew" (2019) - Fake Empire Productions - Drama, Mystery - TV-PG - Based on a book
+"Dublin Murders" (2019) - Element Pictures - Crime, Drama - TV-MA - Based on a book
+"The I-Land" (2019) - Nomadic Pictures - Adventure, Drama - TV-MA - Not a book adaptation
+"The Hot Zone" (2019) - Lynda Obst Productions - Drama, Thriller - TV-14 - Based on a book
+"Bless This Mess" (2019) - 20th Century Fox Television - Comedy - TV-PG - Not a book adaptation
+"Indebted" (2020) - Sony Pictures Television - Comedy - TV-14 - Not a book adaptation
+"The Baker and the Beauty" (2020) - Universal Television - Comedy, Drama - TV-14 - Based on a TV show
+"Council of Dads" (2020) - Jerry Bruckheimer Television - Drama - TV-14 - Based on a book
+"The Secret of Skinwalker Ranch" (2020) - Painless Productions - Reality-TV - TV-14 - Not a book adaptation
+"Tiger King: Murder, Mayhem and Madness" (2020) - Texas Crew Productions - Documentary - TV-MA - Not a book adaptation
